@@ -78,11 +78,3 @@ module.exports = {
 
 + Run `android avd` and start an emulator
 + Run `react-native run-android`
-
-## License
-
-Released under the [MIT License](http://opensource.org/licenses/MIT).
-
-# Feedback
-
-Feedback is always welcome. Feel free to contact me, I would love to know if you notice something that can be done better. Please be nice, this is my first React Native app.
